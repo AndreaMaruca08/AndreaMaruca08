@@ -36,6 +36,8 @@ Lavoro principalmente con Go e Java, sviluppando API REST e servizi backend. Mi 
 - Flutter
 - Express
 - Docker
+- Redis
+- PostgreSQL
 
 ---
 
